@@ -1,3 +1,3 @@
-let my_var = 1000 ;
-let my_var2 = 1500 ;
-console.log(my_var1) ;
+let r = promt ("enter value of r") ; /// get value from user
+Let R = ((2*r) * 2 ) ;
+alert(" R of circle is" + r) ;
