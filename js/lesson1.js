@@ -1,3 +1,5 @@
-let r = promt ("enter value of r") ; /// get value from user
-Let R = ((2*r) * 2 ) ;
-alert(" R of circle is" + r) ;
+let r = prompt ("Enter value of r") ; /// get value from user
+const a = Math.PI
+let R = ( ( 2 * a ) * r ) ;
+let S = a * (r * r ) ;
+alert(" Perimeter of circle is " + R ,  "Area of circle is " + S + "." ) ;
